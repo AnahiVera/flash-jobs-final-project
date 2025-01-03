@@ -54,11 +54,19 @@ Backend Repository =>   https://github.com/AnahiVera/api-proyecto-final
 ## About The Project
 
 
-**📖 Multi-Page Layout**
+**📄 Multi-Page Job Application Platform**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with Bootstrap and SweetAlert for a polished and interactive user interface**
 
-**📱 Fully Responsive**
+**⚛️ Built with React and JavaScript for dynamic and responsive experiences**
+
+**🔒 Secure authentication implemented with Flask-JWT Extended**
+
+**🐳 Deployed using Docker for seamless environment consistency**
+
+**📂 Robust data management with SQLAlchemy and PostgreSQL**
+
+**☁️ Integrated with Cloudinary for efficient media and image handling**
     
     
 

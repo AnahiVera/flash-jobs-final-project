@@ -15,9 +15,12 @@
 <h3 align="center">Flash Jobs</h3>
 
   <p align="center">
-    Descripcion del proyecto
+Flash Jobs, is a comprehensive web application designed to connect job seekers and employers seamlessly. On the front end, it utilizes Bootstrap for responsive design, SweetAlert for user-friendly notifications, JavaScript, and React for interactive and dynamic user experiences. The back end is powered by Python with Flask, using SQLAlchemy for database management and Flask-JWT Extended for secure user authentication. Docker ensures a containerized environment for efficient deployment, and PostgreSQL serves as the robust relational database. Additionally, the integration with Cloudinary enhances the application by enabling streamlined media and image handling
 
-Dirección de Backend Database  =>   https://github.com/AnahiVera/api-proyecto-final
+ <a href="https://www.youtube.com/watch?v=RFvBTWiq78E"> Project Presentation </a> <br>
+ <a href="https://drive.google.com/file/d/1JVoOasNxmStuGvl7EF1d2qp3UEW98V7f/view?usp=sharing"> Demo Presentation </a>
+
+Backend Repository =>   https://github.com/AnahiVera/api-proyecto-final
   </p>
 </div>
 
